@@ -157,7 +157,7 @@ Once we get the binary executed we can :
 
 Example Create élève:
 
-![cree eleve .png](./images/cree eleve .png)
+![cree_eleve .png](./images/cree_eleve .png)
 
 We can also
             
@@ -168,11 +168,11 @@ We can also
 
 # Afficher élève
 
-![affiche eleve.png](images/affiche eleve.png)
+![affiche_eleve.png](images/affiche_eleve.png)
 
 # Supprimer élève
 
-![supp eleve.png](./images/supp eleve.png)
+![supp_eleve.png](./images/supp_eleve.png)
 
 # Lister élève
 
