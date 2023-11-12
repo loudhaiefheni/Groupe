@@ -72,6 +72,7 @@ This section is for Linux Users
 - access to internet 
 - have sudo privileges
 - have eclipse already installed
+- PC
 
 ## Installing java 11
 ### Check java version
