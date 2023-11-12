@@ -64,14 +64,15 @@ Groupe
 - Groupe: implemented methods
   
 ## Input/output
-Input/output of every method is a string of a JSON object .
+- Input/output of every method is a string of a JSON object .
 
 # Install
-This section is for Linux Users
+- This section is for Linux Users
 ## Technical requirements
 - access to internet 
 - have sudo privileges
 - have eclipse already installed
+- PC
 
 ## Installing java 11
 ### Check java version
@@ -81,6 +82,9 @@ java --version
 # expected 
 #openjdk version "11.0.21"
 ````
+
+![linux.png](./images/linux.png)
+
 ### Installing java 11
 ````sh
 sudo apt update
@@ -90,7 +94,7 @@ sudo apt install openjdk-11-jdk -y
 ````sh
 sudo update-alternatives --config java
 ````
-![de819695b4183d79042aec17eaea8891.png](./_resources/f18cf487836747c68c4834dc7b729f5c.png)
+![linux2.png](./images/linux2.png)
 
 Choose the number associated with the **java-11-openjdk** version to use it as the default, or press ENTER to leave the current settings in place.
 
