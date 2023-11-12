@@ -641,7 +641,7 @@ public class MainWindow {
 				console.setText("");
 				JSONObject objRet = new JSONObject(sess.deleteSujet(obj.toString()));
 				if (objRet.getString("result").equals("done"))
-					console.append("Sujet supprimÃ©, id :"+ id);
+					console.append("Sujet supprimé, id :"+ id);
 				else
 					console.append("Erreur suppression vérfier l'exitence de l'id");
 				//TODO: This needs testing (not tested)
@@ -662,7 +662,7 @@ public class MainWindow {
 				console.setText("");
 				JSONObject objRet = new JSONObject(sess.deleteEleve(obj.toString()));
 				if (objRet.getString("result").equals("done"))
-					console.append("Eleve supprimÃ©, id :"+ id);
+					console.append("Eleve supprimé, id :"+ id);
 				else
 					console.append("Erreur suppression vérfier l'exitence de l'id");
 			}
