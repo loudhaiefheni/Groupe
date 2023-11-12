@@ -80,7 +80,7 @@ before we begin begin check your java version :
 ````sh
 java --version
 # expected 
-#openjdk version "11.0.21"
+#openjdk version "11.0.20.1"
 ````
 
 ![linux.png](./images/linux.png)
