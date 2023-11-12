@@ -156,6 +156,7 @@ Once we get the binary executed we can :
                 • Create « Groupe » adding « id élève, id sujet , id d’unité d’enseignement » in (STRING)
 
 Example Create élève:
+
 ![cree eleve .png](./images/cree eleve .png)
 
 We can also
@@ -167,7 +168,7 @@ We can also
 
 # Afficher élève
 
-![affiche eleve.png](./images/affiche eleve.png)
+![affiche eleve.png](images/affiche eleve.png)
 
 # Supprimer élève
 
