@@ -64,10 +64,10 @@ Groupe
 - Groupe: implemented methods
   
 ## Input/output
-Input/output of every method is a string of a JSON object .
+- Input/output of every method is a string of a JSON object .
 
 # Install
-This section is for Linux Users
+- This section is for Linux Users
 ## Technical requirements
 - access to internet 
 - have sudo privileges
