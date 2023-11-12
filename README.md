@@ -17,7 +17,7 @@ Groupe
 | Req-gro-09 |           |      X      |
 | Req-gro-10 |           |      X      |
 
-# Besoin fonctionnels
+  # Exigences fonctionnelles
 - L'utilisateur peut créer une Unité d'Enseignement.
 - L'utilisateur peut supprimer une Unité d'Enseignement.
 - L'utilisateur peut créer un élève.
@@ -29,7 +29,7 @@ Groupe
 - L'utilisateur peut créer aléatoirement des groupes pour un ensemble d'élèves. 
 - L'utilisateur peut changer un élève de groupe.
 
-# Besoin non fonctionnels
+# Exigences non fonctionnelles
 - Req-doc-01 : La documentation doit décrire la procédure d'installation de la version binaire du système.
 - Req-doc-02 : La documentation doit décrire la procédure de désinstallation de la version binaire du système.
 - Req-doc-03 : La documentation doit décrire les interfaces de chaque composant.
