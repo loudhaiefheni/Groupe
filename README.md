@@ -160,13 +160,13 @@ Example Create élève:
 
 We can also
             
-            ▪ Get « élève, sujet and  EU ».
-            ![affiche eleve.png](./images/affiche eleve.png)
-           
+            ▪ Get « élève, sujet and  EU ».     
             ▪ delete « élève, sujet and  EU ».
-             ![supp eleve.png](./images/supp eleve.png)
-            
             ▪ Lister  « élève, sujet and  EU ».
+            
+
+            ![affiche eleve.png](./images/affiche eleve.png)
+            ![supp eleve.png](./images/supp eleve.png)
             ![LISTER.png](./images/LISTER.png)
             
             
