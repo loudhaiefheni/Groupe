@@ -2,7 +2,7 @@
 Groupe
 # Architecture
 ## Class diagram
-![diagClass.png](./images/class-Diagram.PNG)
+![diagClass.png](./images/diagClass.png)
 ## Functional Requirements 
 | ID         | Satisfied | Unsatisfied |
 |------------|-----------|-------------|
@@ -153,14 +153,18 @@ Once we get the binary executed we can :
                 •  Create « Sujet » adding ending hours of the sujet «hh:mm» (LocalTime) and the day «aaaa-mm-jj» (LocalDate)
                 • Create « une unité d’enseignement » adding « code » and «intitulé» in (STRING) and  « TD, TP, Cours , valeurs »  in ( FLOAT)
                 • Create « Groupe » adding « id élève, id sujet , id d’unité d’enseignement » in (STRING)
+
 Example Create élève:
 ![cree eleve .png](./images/cree eleve .png)
 
 We can also
+            
             ▪ Get « élève, sujet and  EU ».
             ![affiche eleve.png](./images/affiche eleve.png)
+           
             ▪ delete « élève, sujet and  EU ».
              ![supp eleve.png](./images/supp eleve.png)
+            
             ▪ Lister  « élève, sujet and  EU ».
             ![LISTER.png](./images/LISTER.png)
             
