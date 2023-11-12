@@ -163,11 +163,10 @@ We can also
             ▪ Get « élève, sujet and  EU ».     
             ▪ delete « élève, sujet and  EU ».
             ▪ Lister  « élève, sujet and  EU ».
-            
 
-            ![affiche eleve.png](./images/affiche eleve.png)
-            ![supp eleve.png](./images/supp eleve.png)
-            ![LISTER.png](./images/LISTER.png)
+![affiche eleve.png](./images/affiche eleve.png)
+![supp eleve.png](./images/supp eleve.png)
+![LISTER.png](./images/LISTER.png)
             
             
 # Anomalies 
