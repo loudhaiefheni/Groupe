@@ -90,7 +90,7 @@ sudo apt install openjdk-11-jdk -y
 ````sh
 sudo update-alternatives --config java
 ````
-![de819695b4183d79042aec17eaea8891.png](./_resources/f18cf487836747c68c4834dc7b729f5c.png)
+![linux.png](./images/linux.png)
 
 Choose the number associated with the **java-11-openjdk** version to use it as the default, or press ENTER to leave the current settings in place.
 
