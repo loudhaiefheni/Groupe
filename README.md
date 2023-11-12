@@ -164,8 +164,17 @@ We can also
             ▪ delete « élève, sujet and  EU ».
             ▪ Lister  « élève, sujet and  EU ».
 
+
+# Afficher élève
+
 ![affiche eleve.png](./images/affiche eleve.png)
+
+# Supprimer élève
+
 ![supp eleve.png](./images/supp eleve.png)
+
+# Lister élève
+
 ![LISTER.png](./images/LISTER.png)
             
             
